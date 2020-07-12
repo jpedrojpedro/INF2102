@@ -51,3 +51,7 @@ Discipline of the postgraduate program (M.Sc.) at the Department of Informatics 
 
 7. Isotani, Seiji: Dados abertos conectados São Paulo, Novatec Editora, 2015
 ISBN 978-85-7522-449-6
+
+#### Report
+
+* [INF2102-PCP-JoaoPedroPinheiro.pdf](https://github.com/jpedrojpedro/INF2102/blob/master/docs/INF2102-PCP-JoaoPedroPinheiro.pdf)
